@@ -1,0 +1,897 @@
+{
+    "alphabet" : [
+        {
+         "id" : 1,
+         "lowerLetter" : "a",
+         "upperLetter" : "A",
+         "pronunciation" : "ei",
+         "audio" : "https://clyp.it/wv4ifd3o/widget",
+         "img" : "https://live.staticflickr.com/65535/50112995828_671dfbb061_z.jpg"
+        },
+        {
+        "id" : 2,
+        "lowerLetter" : "b",
+        "upperLetter" : "B",
+        "pronunciation" : "bii",
+        "audio" : "https://clyp.it/qemojrhy/widget",
+        "img" : "https://live.staticflickr.com/65535/50113797962_1d8ce0a37b.jpg"
+        },
+        {
+        "id" : 3,
+        "lowerLetter" : "c",
+        "upperLetter" : "C",
+        "pronunciation" : "cii",
+        "audio" : "https://clyp.it/igwrsoir/widget",
+        "img" : "https://live.staticflickr.com/65535/50113565036_dbffc2c87c.jpg"
+        },
+        {
+        "id" : 4,
+        "lowerLetter" : "d",
+        "upperLetter" : "D",
+        "pronunciation" : "dii",
+        "audio" : "https://clyp.it/qqxrsd0h/widget",
+        "img" : "https://live.staticflickr.com/65535/50113798037_66a7f7644b.jpg"
+        },
+        {
+        "id" : 5,
+        "lowerLetter" : "e",
+        "upperLetter" : "E",
+        "pronunciation" : "ii",
+        "audio" : "https://clyp.it/hdxlygy3/widget",
+        "img" : "https://live.staticflickr.com/65535/50113798057_ded6d4292c.jpg"
+        },
+        {
+        "id" : 6,
+        "lowerLetter" : "f",
+        "upperLetter" : "F",
+        "pronunciation" : "ef",
+        "audio" : "https://clyp.it/03fwigr2/widget",
+        "img" : "https://live.staticflickr.com/65535/50113565121_8bbe9f873d.jpg"
+        },
+        {
+        "id" : 7,
+        "lowerLetter" : "g",
+        "upperLetter" : "G",
+        "pronunciation" : "llii",
+        "audio" : "https://clyp.it/n4pugh52/widget",
+        "img" : "https://live.staticflickr.com/65535/50112995933_50a6ff85ef.jpg"
+        },
+        {
+        "id" : 8,
+        "lowerLetter" : "h",
+        "upperLetter" : "H",
+        "pronunciation" : "eich",
+        "audio" : "https://clyp.it/psak1qjv/widget",
+        "img" : "https://live.staticflickr.com/65535/50112995923_cf6f89b9b4.jpg"
+        },
+        {
+        "id" : 9,
+        "lowerLetter" : "i",
+        "upperLetter" : "I",
+        "pronunciation" : "ai",
+        "audio" : "https://clyp.it/awa5fwve/widget",
+        "img" : "https://live.staticflickr.com/65535/50113798082_1097b23771.jpg"
+        },
+        {
+        "id" : 10,
+        "lowerLetter" : "j",
+        "upperLetter" : "J",
+        "pronunciation" : "llei",
+        "audio" : "https://clyp.it/yk0df13j/widget",
+        "img" : "https://live.staticflickr.com/65535/50113798127_66b97e2a73.jpg"
+        },
+        {
+        "id" : 11,
+        "lowerLetter" : "k",
+        "upperLetter" : "K",
+        "pronunciation" : "kei",
+        "audio" : "https://clyp.it/x3gzpgdk/widget",
+        "img" : "https://live.staticflickr.com/65535/50112995958_05a7d563e8.jpg"
+        },
+        {
+        "id" : 12,
+        "lowerLetter" : "l",
+        "upperLetter" : "L",
+        "pronunciation" : "el",
+        "audio" : "https://clyp.it/umuzxjta/widget",
+        "img" : "https://live.staticflickr.com/65535/50113565206_3fab6b5513.jpg"
+        },
+        {
+        "id" : 13,
+        "lowerLetter" : "m",
+        "upperLetter" : "M",
+        "pronunciation" : "em",
+        "audio" : "https://clyp.it/ucppwmz2/widget",
+        "img" : "https://live.staticflickr.com/65535/50113565211_b839bb4809.jpg"
+        },
+        {
+        "id" : 14,
+        "lowerLetter" : "n",
+        "upperLetter" : "N",
+        "pronunciation" : "en",
+        "audio" : "https://clyp.it/ufp5bfys/widget",
+        "img" : "https://live.staticflickr.com/65535/50112995873_80393759cf.jpg"
+        },
+        {
+        "id" : 15,
+        "lowerLetter" : "o",
+        "upperLetter" : "O",
+        "pronunciation" : "ou",
+        "audio" : "https://clyp.it/k30wm5pl/widget",
+        "img" : "https://live.staticflickr.com/65535/50113565031_b874eb8f6f_z.jpg"
+        },
+        {
+        "id" : 16,
+        "lowerLetter" : "p",
+        "upperLetter" : "P",
+        "pronunciation" : "pii",
+        "audio" : "https://clyp.it/qq41ngd3/widget",
+        "img" : "https://live.staticflickr.com/65535/50112996008_25b6b31967.jpg"
+        },
+        {
+        "id" : 17,
+        "lowerLetter" : "q",
+        "upperLetter" : "Q",
+        "pronunciation" : "kiu",
+        "audio" : "https://clyp.it/c4wclzwb/widget",
+        "img" : "https://live.staticflickr.com/65535/50113798167_57d701c523.jpg"
+        },
+        {
+        "id" : 18,
+        "lowerLetter" : "r",
+        "upperLetter" : "R",
+        "pronunciation" : "arr",
+        "audio" : "https://clyp.it/d01iq3in/widget",
+        "img" : "https://live.staticflickr.com/65535/50112996018_facdf883c9.jpg"
+        },
+        {
+        "id" : 19,
+        "lowerLetter" : "s",
+        "upperLetter" : "S",
+        "pronunciation" : "ess",
+        "audio" : "https://clyp.it/0uijmrw1/widget",
+        "img" : "https://live.staticflickr.com/65535/50113564901_e5b9bcce25_z.jpg"
+        },
+        {
+        "id" : 20,
+        "lowerLetter" : "t",
+        "upperLetter" : "T",
+        "pronunciation" : "tii",
+        "audio" : "https://clyp.it/mhpm1q34/widget",
+        "img" : "https://live.staticflickr.com/65535/50112995743_97ca332de2_z.jpg"
+        },
+        {
+        "id" : 21,
+        "lowerLetter" : "u",
+        "upperLetter" : "U",
+        "pronunciation" : "iu",
+        "audio" : "https://clyp.it/mevttkmh/widget",
+        "img" : "https://live.staticflickr.com/65535/50112995753_11f2924726.jpg"
+        },
+        {
+        "id" : 22,
+        "lowerLetter" : "v",
+        "upperLetter" : "V",
+        "pronunciation" : "vii",
+        "audio" : "https://clyp.it/cpusvcb0/widget",
+        "img" : "https://live.staticflickr.com/65535/50113797877_d1b966fb1a.jpg"
+        },
+        {
+        "id" : 23,
+        "lowerLetter" : "w",
+        "upperLetter" : "W",
+        "pronunciation" : "dabl iu",
+        "audio" : "https://clyp.it/5wr2dezo/widget",
+        "img" : "https://live.staticflickr.com/65535/50113564961_9bd22e2d54.jpg"
+        },
+        {
+        "id" : 24,
+        "lowerLetter" : "x",
+        "upperLetter" : "X",
+        "pronunciation" : "ex",
+        "audio" : "https://clyp.it/0x50qsyz/widget",
+        "img" : "https://live.staticflickr.com/65535/50113564971_c33085161e.jpg"
+        },
+        {
+        "id" : 25,
+        "lowerLetter" : "y",
+        "upperLetter" : "Y",
+        "pronunciation" : "guai",
+        "audio" : "https://clyp.it/f40nebk4/widget",
+        "img" : "https://live.staticflickr.com/65535/50113797952_4e2c80ba00.jpg"
+        },
+        {
+        "id" : 26,
+        "lowerLetter" : "z",
+        "upperLetter" : "Z",
+        "pronunciation" : "zzii",
+        "audio" : "https://clyp.it/ulbp4twl/widget",
+        "img" : "https://live.staticflickr.com/65535/50112996048_c97f51e14a.jpg"
+        }
+    ],
+
+    "commonPhrase" : [
+        {
+            "id" : 1,
+            "wordE" : "Can you help me?",
+            "wordS" : "¿Me puede ayudar?",
+            "pronunciation" : "ken iu jelp mi",
+            "audio" : "https://clyp.it/ypau53qj/widget"
+        },
+        {
+            "id" : 2,
+            "wordE" : "Do you speak English?",
+            "wordS" : "¿Hablas inglés?",
+            "pronunciation" : "du iu spik ihn-glish",
+            "audio" : "https://clyp.it/se13oz2v/widget"
+        },
+        {
+            "id" : 3,
+            "wordE" : "Good-bye",
+            "wordS" : "Adiós",
+            "pronunciation" : "gud bai",
+            "audio" : "https://clyp.it/0xmrxvge/widget"
+        },
+        {
+            "id" : 4,
+            "wordE" : "How?",
+            "wordS" : "¿Como?",
+            "pronunciation" : "jao",
+            "audio" : "https://clyp.it/pvgeu1ui/widget"
+        },
+        {
+            "id" : 5,
+            "wordE" : "Happy birthday!",
+            "wordS" : "Feliz cumpleaños!",
+            "pronunciation" : "jappi burth dey",
+            "audio" : "https://clyp.it/opqvusda/widget"
+        },
+        {
+            "id" : 6,
+            "wordE" : "How much does it cost?",
+            "wordS" : "¿Cuánto es?",
+            "pronunciation" : "jau mach das et kast",
+            "audio" : "https://clyp.it/eu3urxkt/widget"
+        },
+        {
+            "id" : 7,
+            "wordE" : "I am from...(Mexico)",
+            "wordS" : "Soy de ...(Mexico)",
+            "pronunciation" : "ai em fram ...Mexico",
+            "audio" : "https://clyp.it/t0g3o0ok/widget"
+        },
+        {
+            "id" : 8,
+            "wordE" : "I am happy",
+            "wordS" : "Estoy feliz",
+            "pronunciation" : "ai em jappi",
+            "audio" : "https://clyp.it/retm4zjh/widget"
+        },
+        {
+            "id" : 9,
+            "wordE" : "I am sad",
+            "wordS" : "Estoy triste",
+            "pronunciation" : "ai em sahd",
+            "audio" : "https://clyp.it/znmcadxh/widget"
+        },
+        {
+            "id" : 10,
+            "wordE" : "I am hungry",
+            "wordS" : "Tengo hambre",
+            "pronunciation" : "ai em hangri",
+            "audio" : "https://clyp.it/0gwjdrso/widget"
+        },
+        {
+            "id" : 11,
+            "wordE" : "I am sick",
+            "wordS" : "Estoy enfermo(a)",
+            "pronunciation" : "ai em sihk",
+            "audio" : "https://clyp.it/mscjmg0a/widget"
+        },
+        {
+            "id" : 12,
+            "wordE" : "I do not know",
+            "wordS" : "yo no sé",
+            "pronunciation" : "ai du nat nou",
+            "audio" : "https://clyp.it/1lryjtkn/widget"
+        },
+        {
+            "id" : 13,
+            "wordE" : "I do not like it",
+            "wordS" : "No me gusta",
+            "pronunciation" : "ai du nat laik iht",
+            "audio" : "https://clyp.it/rnkwmt0n/widget"
+        },
+        {
+            "id" : 14,
+            "wordE" : "I love you",
+            "wordS" : "Te amo",
+            "pronunciation" : "ai lof iu",
+            "audio" : "https://clyp.it/bvel32wp/widget"
+        },
+        {
+            "id" : 15,
+            "wordE" : "maybe",
+            "wordS" : "quizá",
+            "pronunciation" : "meibi",
+            "audio" : "https://clyp.it/p2hugpbb/widget"
+        },
+        {
+            "id" : 16,
+            "wordE" : "My name is ...(Norma)",
+            "wordS" : "Mi nombre es ...(Norma)",
+            "pronunciation" : "mai neim es",
+            "audio" : "https://clyp.it/t2yhwdxk/widget"
+        },
+        {
+            "id" : 17,
+            "wordE" : "No",
+            "wordS" : "No",
+            "pronunciation" : "nou",
+            "audio" : "https://clyp.it/qbttexj0/widget"
+        },
+        {
+            "id" : 18,
+            "wordE" : "Yes",
+            "wordS" : "Si",
+            "pronunciation" : "ies",
+            "audio" : "https://clyp.it/aroypzss/widget"
+        },
+        {
+            "id" : 19,
+            "wordE" : "Thank you",
+            "wordS" : "Gracias",
+            "pronunciation" : "theink iu",
+            "audio" : "https://clyp.it/grlsl11l/widget"
+        },
+        {
+            "id" : 20,
+            "wordE" : "When?",
+            "wordS" : "Cuando?",
+            "pronunciation" : "uen",
+            "audio" : "https://clyp.it/5523crxk/widget"
+        },
+        {
+            "id" : 21,
+            "wordE" : "Where?",
+            "wordS" : "Donde?",
+            "pronunciation" : "uehr",
+            "audio" : "https://clyp.it/b55wfiqk/widget"
+        },
+        {
+            "id" : 22,
+            "wordE" : "You are welcome",
+            "wordS" : "De nada",
+            "pronunciation" : "iu ar uelcom",
+            "audio" : "https://clyp.it/wnulc5tk/widget"
+        },
+        {
+            "id" : 23,
+            "wordE" : "Who?",
+            "wordS" : "Quien?",
+            "pronunciation" : "ju",
+            "audio" : "https://clyp.it/cu0soj3c/widget"
+        },
+        {
+            "id" : 24,
+            "wordE" : "Why?",
+            "wordS" : "Por que?",
+            "pronunciation" : "uai",
+            "audio" : "https://clyp.it/o3j5nh3u/widget"
+        },
+        {
+            "id" : 25,
+            "wordE" : "What?",
+            "wordS" : "Que?",
+            "pronunciation" : "uat",
+            "audio" : "https://clyp.it/1frrrkl3/widget"
+        },
+        {
+            "id" : 26,
+            "wordE" : "How?",
+            "wordS" : "Como?",
+            "pronunciation" : "jau",
+            "audio" : "https://clyp.it/lwkqmrny/widget"
+        },
+        {
+            "id" : 27,
+            "wordE" : "What is your name?",
+            "wordS" : "Que es tu nombre?",
+            "pronunciation" : "uat es yo-ur neim",
+            "audio" : "https://clyp.it/dy4sq4lz/widget"
+        }
+    ],
+
+    "greeting" : [
+        {
+            "id" : 1,
+            "wordE" : "Hi",
+            "wordS" : "Hola",
+            "pronunciation" : "jai",
+            "audio" : "https://clyp.it/4vyqe4qd/widget"
+        },
+        {
+            "id" : 2,
+            "wordE" : "How are you?",
+            "wordS" : "Como estas?",
+            "pronunciation" : "jau ar iu",
+            "audio" : "https://clyp.it/jjwae03n/widget"
+        },
+        {
+            "id" : 3,
+            "wordE" : "How is your day?",
+            "wordS" : "Como esta tu dia?",
+            "pronunciation" : "jau es yo-ur dei",
+            "audio" : "https://clyp.it/25jzpyas/widget"
+        },
+        {
+            "id" : 4,
+            "wordE" : "Nice to meet you.",
+            "wordS" : "Mucho gusto en conocerte.",
+            "pronunciation" : "nais tu mit iu",
+            "audio" : "https://clyp.it/kazefl02/widget"
+        },
+        {
+            "id" : 5,
+            "wordE" : "Good morning",
+            "wordS" : "Buenos dias",
+            "pronunciation" : "gud mornin",
+            "audio" : "https://clyp.it/zxpsx5ia/widget"
+        },
+        {
+            "id" : 6,
+            "wordE" : "Good afternoon",
+            "wordS" : "Buenas tardes",
+            "pronunciation" : "gud afternun",
+            "audio" : "https://clyp.it/yxlujaes/widget"
+        }
+    ],
+
+    "food" : [
+        {
+            "id" : 1,
+            "wordE" : "Vegetable",
+            "wordS" : "Vegetal",
+            "pronunciation" : "veshtabol",
+            "audio" : "https://clyp.it/3fj3ci4a/widget"
+        },
+        {
+            "id" : 2,
+            "wordE" : "Avocado",
+            "wordS" : "Aguacate",
+            "pronunciation" : "avocado",
+            "audio" : "https://clyp.it/omhaarjz/widget"
+        },
+        {
+            "id" : 3,
+            "wordE" : "Broccoli",
+            "wordS" : "Brocoli",
+            "pronunciation" : "brakoli",
+            "audio" : "https://clyp.it/45m5wvo0/widget"
+        },
+        {
+            "id" : 4,
+            "wordE" : "Carrot",
+            "wordS" : "Zanahoria",
+            "pronunciation" : "que ret",
+            "audio" : "https://clyp.it/ehk3rm41/widget"
+        },
+        {
+            "id" : 5,
+            "wordE" : "Celery",
+            "wordS" : "Apio",
+            "pronunciation" : "seleri",
+            "audio" : "https://clyp.it/5bndl5ij/widget"
+        },
+        {
+            "id" : 6,
+            "wordE" : "Cucumber",
+            "wordS" : "Pepino",
+            "pronunciation" : "kiu kambr",
+            "audio" : "https://clyp.it/3giqzmq0/widget"
+        },
+        {
+            "id" : 7,
+            "wordE" : "Garlic",
+            "wordS" : "Ajo",
+            "pronunciation" : "garlik",
+            "audio" : "https://clyp.it/gpn02uor/widget"
+        },
+        {
+            "id" : 8,
+            "wordE" : "Lettuce",
+            "wordS" : "Lechuga",
+            "pronunciation" : "let es",
+            "audio" : "https://clyp.it/ishlhbma/widget"
+        },
+        {
+            "id" : 9,
+            "wordE" : "Onion",
+            "wordS" : "Cebolla",
+            "pronunciation" : "anien",
+            "audio" : "https://clyp.it/2fglexog/widget"
+        },
+        {
+            "id" : 10,
+            "wordE" : "potato",
+            "wordS" : "papa",
+            "pronunciation" : "potatou",
+            "audio" : "https://clyp.it/4b3omdgd/widget"
+        },
+        {
+            "id" : 11,
+            "wordE" : "Spinach",
+            "wordS" : "Espinaca",
+            "pronunciation" : "spinech",
+            "audio" : "https://clyp.it/4b3omdgd/widget"
+        },
+        {
+            "id" : 12,
+            "wordE" : "Fruit",
+            "wordS" : "Fruta",
+            "pronunciation" : "frut",
+            "audio" : "https://clyp.it/zwxqcs0u/widget"
+        },
+        {
+            "id" : 13,
+            "wordE" : "Apple",
+            "wordS" : "Manzana",
+            "pronunciation" : "apl",
+            "audio" : "https://clyp.it/zqks055e/widget"
+        },
+        {
+            "id" : 14,
+            "wordE" : "Banana",
+            "wordS" : "Platano",
+            "pronunciation" : "banana",
+            "audio" : "https://clyp.it/lnhgfz3c/widget"
+        },
+        {
+            "id" : 15,
+            "wordE" : "Blueberry",
+            "wordS" : "arándano",
+            "pronunciation" : "blu berri",
+            "audio" : "https://clyp.it/rufrrukx/widget"
+        },
+        {
+            "id" : 16,
+            "wordE" : "Cherry",
+            "wordS" : "Cereza",
+            "pronunciation" : "cherri",
+            "audio" : "https://clyp.it/tpmlkhmw/widget"
+        },
+        {
+            "id" : 17,
+            "wordE" : "Grape",
+            "wordS" : "Uva",
+            "pronunciation" : "greip",
+            "audio" : "https://clyp.it/nvykrmvm/widget"
+        },
+        {
+            "id" : 18,
+            "wordE" : "Mango",
+            "wordS" : "Mango",
+            "pronunciation" : "mangou",
+            "audio" : "https://clyp.it/3cpkaqt0/widget"
+        },
+        {
+            "id" : 19,
+            "wordE" : "Orange",
+            "wordS" : "Naranja",
+            "pronunciation" : "oreng",
+            "audio" : "https://clyp.it/extn1oph/widget"
+        },
+        {
+            "id" : 20,
+            "wordE" : "Pear",
+            "wordS" : "Pera",
+            "pronunciation" : "per",
+            "audio" : "https://clyp.it/mduon30o/widget"
+        },
+        {
+            "id" : 21,
+            "wordE" : "Pineapple",
+            "wordS" : "Piña",
+            "pronunciation" : "painappl",
+            "audio" : "https://clyp.it/haernana/widget"
+        },
+        {
+            "id" : 22,
+            "wordE" : "Strawberry",
+            "wordS" : "Fresa",
+            "pronunciation" : "straberri",
+            "audio" : "https://clyp.it/mxrnnmbz/widget"
+        },
+        {
+            "id" : 23,
+            "wordE" : "Dairy Products",
+            "wordS" : "Productos lácteos",
+            "pronunciation" : "deh ri pradacts",
+            "audio" : "https://clyp.it/f450sual/widget"
+        },
+        {
+            "id" : 24,
+            "wordE" : "Milk",
+            "wordS" : "Leche",
+            "pronunciation" : "melk",
+            "audio" : "https://clyp.it/40dyxmb1/widget"
+        },
+        {
+            "id" : 25,
+            "wordE" : "Milk Chocolate",
+            "wordS" : "Leche de Chocolate",
+            "pronunciation" : "melk choclet",
+            "audio" : "https://clyp.it/atz1t0vp/widget"
+        },
+        {
+            "id" : 26,
+            "wordE" : "Cheese",
+            "wordS" : "Queso",
+            "pronunciation" : "chis",
+            "audio" : "https://clyp.it/mxphbzo4/widget"
+        },
+        {
+            "id" : 27,
+            "wordE" : "Cream",
+            "wordS" : "Crema",
+            "pronunciation" : "krim",
+            "audio" : "https://clyp.it/nhsnxzlb/widget"
+        },
+        {
+            "id" : 28,
+            "wordE" : "Butter",
+            "wordS" : "Mantequilla",
+            "pronunciation" : "bater",
+            "audio" : "https://clyp.it/bgi2pnbt/widget"
+        },
+        {
+            "id" : 29,
+            "wordE" : "Yogurt",
+            "wordS" : "Yogur",
+            "pronunciation" : "yo gurt",
+            "audio" : "https://clyp.it/nbwtgwce/widget"
+        },
+        {
+            "id" : 30,
+            "wordE" : "Egg",
+            "wordS" : "Huevo",
+            "pronunciation" : "eg",
+            "audio" : "https://clyp.it/wzoydnj4/widget"
+        },
+        {
+            "id" : 31,
+            "wordE" : "Sour cream",
+            "wordS" : "Crema Acida",
+            "pronunciation" : "saor krim",
+            "audio" : "https://clyp.it/zjn5l42v/widget"
+        },
+        {
+            "id" : 32,
+            "wordE" : "Cottage Cheese",
+            "wordS" : "Requeson",
+            "pronunciation" : "kateg chis",
+            "audio" : "https://clyp.it/4tgivzzs/widget"
+        },
+        {
+            "id" : 33,
+            "wordE" : "Ice Cream",
+            "wordS" : "Helado",
+            "pronunciation" : "ais krim",
+            "audio" : "https://clyp.it/krmtyddg/widget"
+        },
+        {
+            "id" : 34,
+            "wordE" : "Bread",
+            "wordS" : "Pan",
+            "pronunciation" : "brehd",
+            "audio" : "https://clyp.it/g42qn4l5/widget"
+        },
+        {
+            "id" : 35,
+            "wordE" : "Flour",
+            "wordS" : "Harina",
+            "pronunciation" : "flawor",
+            "audio" : "https://clyp.it/jzajt1jn/widget"
+        },
+        {
+            "id" : 36,
+            "wordE" : "Honey",
+            "wordS" : "Miel",
+            "pronunciation" : "jani",
+            "audio" : "https://clyp.it/srb5oehx/widget"
+        },
+        {
+            "id" : 37,
+            "wordE" : "Cereal",
+            "wordS" : "cereal",
+            "pronunciation" : "sirial",
+            "audio" : "https://clyp.it/isv2bjor/widget"
+        },
+        {
+            "id" : 38,
+            "wordE" : "Rice",
+            "wordS" : "Arroz",
+            "pronunciation" : "rais",
+            "audio" : "https://clyp.it/rviddp3y/widget"
+        },
+        {
+            "id" : 39,
+            "wordE" : "Beans",
+            "wordS" : "Frijoles",
+            "pronunciation" : "bins",
+            "audio" : "https://clyp.it/d3qt54pb/widget"
+        },
+        {
+            "id" : 40,
+            "wordE" : "Ham",
+            "wordS" : "Jamon",
+            "pronunciation" : "jam",
+            "audio" : "https://clyp.it/nglfuzsw/widget"
+        },
+        {
+            "id" : 41,
+            "wordE" : "Salt",
+            "wordS" : "Sal",
+            "pronunciation" : "salt",
+            "audio" : "https://clyp.it/gluurnlk/widget"
+        },
+        {
+            "id" : 42,
+            "wordE" : "Pepper",
+            "wordS" : "Pimienta",
+            "pronunciation" : "peper",
+            "audio" : "https://clyp.it/e1pdidky/widget"
+        },
+        {
+            "id" : 43,
+            "wordE" : "Soup",
+            "wordS" : "Sopa",
+            "pronunciation" : "sup",
+            "audio" : "https://clyp.it/g4544rub/widget"
+        }
+    ],
+
+    "people" : [
+        {
+            "id" : 1,
+            "wordE" : "Mother/Mom",
+            "wordS" : "Madre/Mama",
+            "pronunciation" : "mathur/mahm",
+            "audio" : "https://clyp.it/piu3i243/widget"
+        },
+        {
+            "id" : 2,
+            "wordE" : "Father/Dad",
+            "wordS" : "Padre/Papa",
+            "pronunciation" : "fathur/dad",
+            "audio" : "https://clyp.it/0lkdryvn/widget"
+        },
+        {
+            "id" : 3,
+            "wordE" : "Brother",
+            "wordS" : "Hermano",
+            "pronunciation" : "brather",
+            "audio" : "https://clyp.it/52zpmjnj/widget"
+        },
+        {
+            "id" : 4,
+            "wordE" : "Sister",
+            "wordS" : "Hermana",
+            "pronunciation" : "sister",
+            "audio" : "https://clyp.it/yd1kdapr/widget"
+        },
+        {
+            "id" : 5,
+            "wordE" : "Daughter",
+            "wordS" : "Hija",
+            "pronunciation" : "dater",
+            "audio" : "https://clyp.it/xmljpgzv/widget"
+        },
+        {
+            "id" : 6,
+            "wordE" : "Son",
+            "wordS" : "Hijo",
+            "pronunciation" : "san",
+            "audio" : "https://clyp.it/n3hpgvag/widget"
+        },
+        {
+            "id" : 7,
+            "wordE" : "Husband",
+            "wordS" : "Esposo",
+            "pronunciation" : "jas ben",
+            "audio" : "https://clyp.it/zvkqkwwt/widget"
+        },
+        {
+            "id" : 8,
+            "wordE" : "Wife",
+            "wordS" : "Esposa",
+            "pronunciation" : "uaif",
+            "audio" : "https://clyp.it/3jzi2yek/widget"
+        },
+        {
+            "id" : 9,
+            "wordE" : "Siblings",
+            "wordS" : "Hermanos",
+            "pronunciation" : "si blings",
+            "audio" : "https://clyp.it/cyt5nyov/widget"
+        },
+        {
+            "id" : 10,
+            "wordE" : "Great grandparents/Great grandma/Great grandpa",
+            "wordS" : "bisabuelos/bisabuela/bisabuelo",
+            "pronunciation" : "greit granperrint / greit granma / greit granpa",
+            "audio" : "https://clyp.it/0zueouht/widget"
+        },
+        {
+            "id" : 11,
+            "wordE" : "Grandparents/Grandma/Grandpa",
+            "wordS" : "Abuelos/Abuela/Abuelo",
+            "pronunciation" : "granperrint / granma / granpa",
+            "audio" : "https://clyp.it/nghw4zr0/widget"
+        },
+        {
+            "id" : 12,
+            "wordE" : "Grandson/Granddaughter",
+            "wordS" : "Nieto/Nieta",
+            "pronunciation" : "gransun / grandater",
+            "audio" : "https://clyp.it/pdno1rkd/widget"
+        },
+        {
+            "id" : 13,
+            "wordE" : "Nephew/Niece",
+            "wordS" : "Sobrino/Sobrina",
+            "pronunciation" : "nefiu / nis",
+            "audio" : "https://clyp.it/53sw4h4q/widget"
+        },
+        {
+            "id" : 14,
+            "wordE" : "Aunt/Uncle",
+            "wordS" : "Tia/Tio",
+            "pronunciation" : "ent / ankol",
+            "audio" : "https://clyp.it/hyw3xehu/widget"
+        },
+        {
+            "id" : 15,
+            "wordE" : "Cousin",
+            "wordS" : "Primo/Prima",
+            "pronunciation" : "cazin",
+            "audio" : "https://clyp.it/hmmf0txv/widget"
+        },
+        {
+            "id" : 16,
+            "wordE" : "Stranger",
+            "wordS" : "Extrano",
+            "pronunciation" : "streinger",
+            "audio" : "https://clyp.it/l3z40ho2/widget"
+        },
+        {
+            "id" : 17,
+            "wordE" : "Boy",
+            "wordS" : "Nino",
+            "pronunciation" : "boi",
+            "audio" :  "https://clyp.it/ludldobn/widget"
+        },
+        {
+            "id" : 18,
+            "wordE" : "Girl",
+            "wordS" : "Nina",
+            "pronunciation" : "guhrl",
+            "audio" : "https://clyp.it/ho25a4sd/widget"
+        },
+        {
+            "id" : 19,
+            "wordE" : "Friend",
+            "wordS" : "Amgigo(a)",
+            "pronunciation" : "frend",
+            "audio" : "https://clyp.it/z0yesrlt/widget"
+        },
+        {
+            "id" : 20,
+            "wordE" : "Neighbor",
+            "wordS" : "Vecino(a)",
+            "pronunciation" : "neibor",
+            "audio" : "https://clyp.it/cibbksmh/widget"
+        }
+    ]
+}
+

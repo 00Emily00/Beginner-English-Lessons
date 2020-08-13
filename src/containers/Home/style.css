@@ -1,0 +1,15 @@
+.slider {
+    width: 300px;
+    text-align: center;
+    overflow: hidden;
+  }
+  
+  .slides {
+    display: flex;
+  }
+  video {
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    margin-left: 250px;
+  }

@@ -1,0 +1,32 @@
+.blogPostContainer {
+    /* width: 70%; */
+    text-align: center;
+}
+.blogPostContainer h1 {
+    font-size: 50px;
+}
+.postContent h3 {
+    display: inline;
+    font-size: 40px;
+}
+.postContent p {
+    font-size: 30px;
+}
+.blogHeader {
+    text-align: center;
+}
+
+/* .postContent {
+    margin: 10px;
+}
+.postContent h3{
+    font-weight: 400;
+    color: #333333;
+}
+.postContent p {
+    font-size: 14px;
+    color: #6c6c6c;
+    font-weight: 300;
+    letter-spacing: 1px;
+    padding-bottom: 20px;
+} */
