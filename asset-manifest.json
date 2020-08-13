@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Beginner-English-Lessons/static/css/main.e7bc6927.chunk.css",
+    "main.js": "/Beginner-English-Lessons/static/js/main.c689378c.chunk.js",
+    "main.js.map": "/Beginner-English-Lessons/static/js/main.c689378c.chunk.js.map",
+    "runtime-main.js": "/Beginner-English-Lessons/static/js/runtime-main.a3e621dc.js",
+    "runtime-main.js.map": "/Beginner-English-Lessons/static/js/runtime-main.a3e621dc.js.map",
+    "static/js/2.2496dd87.chunk.js": "/Beginner-English-Lessons/static/js/2.2496dd87.chunk.js",
+    "static/js/2.2496dd87.chunk.js.map": "/Beginner-English-Lessons/static/js/2.2496dd87.chunk.js.map",
+    "index.html": "/Beginner-English-Lessons/index.html",
+    "precache-manifest.0eb96854247f19963604678e21d37751.js": "/Beginner-English-Lessons/precache-manifest.0eb96854247f19963604678e21d37751.js",
+    "service-worker.js": "/Beginner-English-Lessons/service-worker.js",
+    "static/css/main.e7bc6927.chunk.css.map": "/Beginner-English-Lessons/static/css/main.e7bc6927.chunk.css.map",
+    "static/js/2.2496dd87.chunk.js.LICENSE.txt": "/Beginner-English-Lessons/static/js/2.2496dd87.chunk.js.LICENSE.txt",
+    "static/media/apple.png": "/Beginner-English-Lessons/static/media/apple.cff7015f.png",
+    "static/media/food.mov": "/Beginner-English-Lessons/static/media/food.fac7e654.mov",
+    "static/media/introduction-2.mp4": "/Beginner-English-Lessons/static/media/introduction-2.857e8fe9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e621dc.js",
+    "static/js/2.2496dd87.chunk.js",
+    "static/css/main.e7bc6927.chunk.css",
+    "static/js/main.c689378c.chunk.js"
+  ]
+}
